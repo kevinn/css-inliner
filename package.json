@@ -1,0 +1,12 @@
+{
+  "name": "css-inliner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-inline-css": "^3.3.1",
+    "gulp-rename": "^1.4.0"
+  }
+}
